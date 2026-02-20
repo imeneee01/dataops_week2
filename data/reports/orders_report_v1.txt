@@ -1,0 +1,4 @@
+Fichier nettoyé : orders_clean_v1.csv
+Lignes initiales : 11
+Lignes finales : 4
+Lignes supprimées : 7
