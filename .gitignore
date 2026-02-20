@@ -1,3 +1,14 @@
-.venv
+.venv/
+.env
+
+__pycache__/
+*.pyc
+*.py0
+*.pyd
+.cache/
+
+logs/
 
 data/processed/
+data/reports/
+config/airflow.cfg
